@@ -29,7 +29,7 @@ Also, we're eager for feedback on our general structure and approach. Feel free 
 
 ## User Stories
 
-_These [user stories](https://en.wikipedia.org/wiki/User_story)_ are short descriptions of how these resources may be used that guide our work_
+_These [user stories](https://en.wikipedia.org/wiki/User_story) are short descriptions of how these resources may be used that guide our work._
 
 #### Fernando the Open-Source Project Community Manager
 
