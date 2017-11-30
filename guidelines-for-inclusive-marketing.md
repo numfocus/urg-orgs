@@ -1,4 +1,4 @@
-## Guidelines for inclusive marketing
+# Guidelines for inclusive marketing
 
 ## Goals
 
@@ -38,83 +38,79 @@
 
 * It was developed at the DISC event hosted by NumFOCUS (29-30 Nov 2017)
 
-## Considerations for Language 
+## Considerations for Recruitment Language 
 
-1. Reframe hard skills as soft skills
-
-    1. For example, a website could be a list of the technical skills required (python, machine learning, SQL, linear algebra, advanced calculus, etc…) or it could be a list of actions (problem solving, communicating complex topics to end users, designing workflows to develop new insights, copyright and licensing, academic publication, etc...)
-
-    2. In an educational context: Clear skills listed as part of the curriculum and how those skills translate to real world problems
-
-        1. Use clear language when describing those skills
-
-        2. Use real world examples
+1. Reframe hard skills as soft skills. For example, a website could be a list of the technical skills required (python, machine learning, SQL, linear algebra, advanced calculus, etc…) or it could be a list of actions (problem solving, communicating complex topics to end users, designing workflows to develop new insights, copyright and licensing, academic publication, etc...)
 
 2. Avoid gendered pronouns -- [resource on getting the pronouns right](https://qz.com/926596/how-to-make-your-office-welcoming-to-transgender-and-gender-non-conforming-workers/)
 
-    3. Related: Resource on descriptors that refer to personal attributes of gender, race, disability, and more: [http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm](http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm) 
+    1. Related: Resource on descriptors that refer to personal attributes of gender, race, disability, and more: [http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm](http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm) 
 
 3. Humanize education and community members
 
-    4. Provide anecdotes from current faculty and students (example: American Statistical Association has an article in each of their journal publications about a statistician in the theme of "what does a statistician do when not doing statistics?".) 
+    2. Provide anecdotes from current faculty and students (example: American Statistical Association has an article in each of their journal publications about a statistician in the theme of "what does a statistician do when not doing statistics?".) 
 
-    5. Show kindness and humanity
+    3. Show kindness and humanity
 
-    6. Fail publicly (e.g. if you’re making mistakes you’re trying)
+    4. Fail publicly (e.g. if you’re making mistakes you’re trying)
 
-4. Expectations should be clear, along with an up-front COC (or something similar)
+4. Expectations about both individual performance and community standards for conduct should be clear.
 
-    7. As COC is enforced, should disincentivize bad behavior
+    5. Using clear language and real world examples to describe the skills possessed by your desired applicant will help prevent some individuals from self-selecting out prematurely. For example, don’t simply ask for a ‘rockstar programmer’ or even ‘an advanced C++ programmer’. What does ‘advanced’ mean to your company and project? Do you want someone who has written more than 10,000 lines of C++ code? Someone who has been working with object oriented code in C++ for more than 2 years? 
 
-    8. Confront disruptive behaviors head-on ([https://coast.noaa.gov/ddb/](https://coast.noaa.gov/ddb/) )
+    6. Publishing and making visible an up-front Code Of Conduct (COC) is a great way to signal your community or organization’s commitment to creating an inclusive environment.
 
 5. Be very intentional with word choice (e.g. some words are loaded with negative connotations, double meanings, or implied barriers) -- [inclusive language in tech](https://open.buffer.com/inclusive-language-tech/) 
 
-    9. Bootcamp vs workshop
+    7. Bootcamp vs workshop
 
-    10. Hackathon vs collaboration
+    8. Hackathon vs collaboration
 
-    11. Group work vs team projects
+    9. Group work vs team projects
 
-    12. Describe programs as instructions
+    10. Describe programs as instructions
 
-    13. Hacker vs Engineer, Developer, Maker, Builder, Programmer, Specialist, Artisan, Architect, Helper, Code experimenter
+    11. Hacker vs Engineer, Developer, Maker, Builder, Programmer, Specialist, Artisan, Architect, Helper, Code experimenter
 
-    14. Eligibility
+    12. Eligibility vs suggested coursework
 
-    15. Requirements 
+## Considerations for Ongoing Support Language and Actions
 
-    16. Qualification 
+If you are successful in attracting more diverse talent/applicants/members to your community or organization, here are some considerations that might help you in retaining those people. 
 
-    17. Proficiency
+1. Provide resources, helpful links, tutorials etc. to lower barriers to entry
 
-6. Provide resources, helpful links, tutorials etc. to lower barriers to entry
+    1. This includes putting accessibility up front. For example: tutoring/training resources, nursing/lactation rooms, childcare, mobility
 
-    18. This includes putting accessibility up front. For example: tutoring/training resources, nursing/lactation rooms, childcare, mobility
+2. Promote collaboration and creativity (this can show that diverse perspectives are valued - e.g. we don’t only want one "right way" to do things here)
 
-7. Promote collaboration and creativity (this can show that diverse perspectives are valued - e.g. we don’t only want one "right way" to do things here)
+3. Collaborative events
 
-8. Collaborative events
+    2. "Deliverable" is an expanded community, not necessarily what is developed during the event.
 
-    19. "Deliverable" is an expanded community, not necessarily what is developed during the event.
+    3. Collaborative events are not just about code.  Documentation, training materials, design feedback, ….  All of those things are more valuable when coming from newbies - can stress that in advertising.
 
-    20. Collaborative events are not just about code.  Documentation, training materials, design feedback, ….  All of those things are more valuable when coming from newbies - can stress that in advertising.
+4. Publicly recognize and "show off" community members who are doing well, making improvements, and contributing. “Catch” members behaving well or doing cool things! This will promote a sense of team spirit and call more attention to community members who do not easily advertise their own work.
 
-9. Publicly recognize and "show off" community members who are doing well, making improvements, and contributing. “Catch” members behaving well or doing cool things!
+5. Enforce and embrace COC
 
-10. Educate on [stereotypes ](https://depts.washington.edu/sibl/sapna-cheryan/) and [bias ](https://medium.com/inclusion-insights/unconscious-bias-faqs-b6f3ab58deb4)-- 
+    4. Confront disruptive behaviors head-on ([https://coast.noaa.gov/ddb/](https://coast.noaa.gov/ddb/) )
 
-## Examples
+    5. Incentivize behaviors that support the work/contributions of other community members. For example, imagine a situation where one community member is interrupted or spoken over; positively acknowledge the community member who circles back to the interrupted contributor or calls out the interruptor. 
+
+6. Provide education on [stereotypes ](https://depts.washington.edu/sibl/sapna-cheryan/) and [bias ](https://medium.com/inclusion-insights/unconscious-bias-faqs-b6f3ab58deb4)
 
 ## References and Resources
 
-* [http://projectinclude.org/](http://projectinclude.org/) 
+* Project Include's guides on inclusivity, including several related to recruitment and retention: [http://projectinclude.org/](http://projectinclude.org/) 
 
-* Is your ad using gender-coded language? [http://gender-decoder.katmatfield.com/](http://gender-decoder.katmatfield.com/) 
+* Tools that analyze job ads for inclusive language
 
-* [CISCO Case](https://www.cisco.com/c/en/us/about/inclusion-diversity.html#~stickynav=1) 
+    *  [http://gender-decoder.katmatfield.com/](http://gender-decoder.katmatfield.com/) 
 
-* Good case study and tips on an inclusive hiring process for a data scientist at Wikimedia:  [https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
+    *  [https://textio.com/](https://textio.com/)
 
-* Textio: tool to analyze language.  [https://textio.com/](https://textio.com/)
+* Case study: CISCO's web page on diversity, inclusion and collaboration https://www.cisco.com/c/en/us/about/inclusion-diversity.html 
+
+* Tips on an inclusive hiring process for a data scientist, based on a case study at Wikimedia:  [https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
 
