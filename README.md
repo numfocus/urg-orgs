@@ -1,3 +1,7 @@
+# Recruitment and Outreach to Under-Represented Groups
+
+![](disc_logo.jpg)
+
 This project is a directory of organizations serving under-represented groups (URGs) that may be of interest to those in scientific computing or interested in entering scientific computing.  These include but are not limited to:
 
 - URG-focused meetups in scientific computing, data science and other tech topics
