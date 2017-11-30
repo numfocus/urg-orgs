@@ -11,8 +11,6 @@ This repo also contains additional resources for recruiting from URGs for compan
 
 Take a look at our [user stories](user-stories) for potential ways to use this directory.
 
-Want to contribute? Look at the project issues!
-
 This project was started as part of the 2017 NumFOCUS Diversity in Scientific Computing Unconference. Initial contributors include:
 
 - Amelia Kallaher, Cornell University 
@@ -23,7 +21,15 @@ This project was started as part of the 2017 NumFOCUS Diversity in Scientific Co
 - Noam Ross, EcoHealth Alliance/rOpenSci
 - Sarah Supp, Denison University
 
+### Contrinuting 
+
+Want to contribute? Great! Look at the project issues for things we want to do.  Continuing to populate the spreadsheet and refine categories is our current top need.
+
+Also, we're eager for feedback on our general structure and approach. Feel free to open an issue to start a discussion.
+
 ## User Stories
+
+These _[user stories](https://en.wikipedia.org/wiki/User_story)_ are short descriptions of how these resources may be used that guide our work.
 
 #### Fernando the Open-Source Project Community Manager
 
